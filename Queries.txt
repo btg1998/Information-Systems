@@ -1,0 +1,45 @@
+
+Start of Program Run
+
+Text File containing Query No. and their result: 
+
+Query No. 1
+Sem1 Topper: Topper
+Sem2 Topper: TheStud
+Sem3 Topper: Comebacker
+Sem4 Topper: Topper
+Overall Topper: Katharnak
+
+Query No. 2
+The Weak Students are: 
+DoesntCare
+BadBoy
+TerrorBanda
+Senseless
+Offender
+Rebel
+
+Query No. 3
+Sorted Data: 
+Name: Katharnak Roll No. : 16IM10016 Hall: Nehru Hall SG1: 9.97 SG2: 9.91 SG3: 9.93 SG4: 9.95 CG: 9.94
+Name: LadiesMan Roll No. : 16IM10013 Hall: SN hall SG1: 9.93 SG2: 9.8 SG3: 9.75 SG4: 9.91 CG: 9.85
+Name: TheStud Roll No. : 16IM10012 Hall: BRH Hall SG1: 9.91 SG2: 10.0 SG3: 9.93 SG4: 9.51 CG: 9.84
+Name: Topper Roll No. : 16IM10006 Hall: RP Hall SG1: 10.0 SG2: 9.8 SG3: 9.47 SG4: 10.0 CG: 9.82
+Name: LadiesBoy Roll No. : 16IM10014 Hall: IG hall SG1: 9.6 SG2: 9.3 SG3: 9.73 SG4: 9.45 CG: 9.52
+Name: StudBoi Roll No. : 16IM10005 Hall: RK Hall SG1: 9.55 SG2: 9.4 SG3: 9.3 SG4: 9.7 CG: 9.49
+Name: Comebacker Roll No. : 16IM10003 Hall: Azad Hall SG1: 8.11 SG2: 7.9 SG3: 10.0 SG4: 9.8 CG: 8.95
+Name: RichGuy Roll No. : 16IM10017 Hall: Azad Hall SG1: 8.5 SG2: 8.0 SG3: 7.9 SG4: 9.5 CG: 8.48
+Name: AllRounder Roll No. : 16IM10002 Hall: Nehru Hall SG1: 8.5 SG2: 9.0 SG3: 8.09 SG4: 7.95 CG: 8.39
+Name: GoodBoy Roll No. : 16IM10008 Hall: MS Hall SG1: 7.8 SG2: 7.9 SG3: 8.3 SG4: 8.71 CG: 8.18
+Name: TheHunk Roll No. : 16IM10011 Hall: HJB Hall SG1: 7.7 SG2: 7.31 SG3: 8.5 SG4: 9.0 CG: 8.13
+Name: BoyZ Roll No. : 16IM10009 Hall: VS Hall SG1: 8.0 SG2: 8.4 SG3: 7.61 SG4: 8.0 CG: 8.0
+Name: TheCoolGuy Roll No. : 16IM10001 Hall: LLR Hall SG1: 8.11 SG2: 8.4 SG3: 7.95 SG4: 7.0 CG: 7.87
+Name: WannaBe Roll No. : 16IM10010 Hall: JCB hall SG1: 7.5 SG2: 7.01 SG3: 7.31 SG4: 7.9 CG: 7.43
+Name: BadBoy Roll No. : 16IM10007 Hall: LBS Hall SG1: 5.5 SG2: 1.63 SG3: 6.9 SG4: 7.9 CG: 5.48
+Name: Senseless Roll No. : 16IM10018 Hall: Patel Hall SG1: 4.5 SG2: 6.5 SG3: 1.21 SG4: 6.59 CG: 4.7
+Name: DoesntCare Roll No. : 16IM10004 Hall: Patel Hall SG1: 3.5 SG2: 4.0 SG3: 4.5 SG4: 6.5 CG: 4.63
+Name: Offender Roll No. : 16IM10019 Hall: RK Hall SG1: 4.3 SG2: 5.9 SG3: 6.9 SG4: 1.21 CG: 4.58
+Name: Rebel Roll No. : 16IM10020 Hall: RP Hall SG1: 1.21 SG2: 3.36 SG3: 4.51 SG4: 8.45 CG: 4.38
+Name: TerrorBanda Roll No. : 16IM10015 Hall: MMM Hall SG1: 5.5 SG2: 2.5 SG3: 1.61 SG4: 6.5 CG: 4.03
+
+End of Program Run.
